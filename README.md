@@ -14,7 +14,8 @@ Instructions: Give answer in a, b, c or d.
 4. If you made high score, then it will show username which you have beaten with their respected score.
 
 # Preview
-![quiz](https://raw.githubusercontent.com/divikjuneja17/Do-You-Know-Me-Quiz/main/Preview.png)
+![quiz](https://github.com/divikjuneja17/Do-You-Know-Java-Quiz/blob/main/preview_1.png?raw=true)
+![quiz](https://github.com/divikjuneja17/Do-You-Know-Java-Quiz/blob/main/preview_2.png?raw=true)
 
 # Packages used:
 [readline-sync](https://www.npmjs.com/package/readline-sync)
